@@ -16,6 +16,39 @@ DSA practice repository for **Infosys Specialist Programmer (SP)** and **Digital
 
 ---
 
+## 🎯 Priority Focus Topics (Start Here First!)
+
+These are the **most important and most repeated** topics in Infosys assessments. Cover these before anything else.
+
+---
+
+### 🔵 Arrays
+- Sliding window maximum
+- Partition labels
+- Peak element
+- Minimum difference partition
+- Product array
+- Prefix sum problems
+
+---
+
+### 🔵 Strings
+- Longest palindrome
+- Rearranging characters
+- Valid parentheses
+- Longest unique substring
+- Palindrome DP
+
+---
+
+### 🔵 Greedy
+- Activity selection
+- Job scheduling
+- Fractional knapsack
+- Waiting time scheduling
+
+---
+
 ## 📋 About This Repository
 
 - ✅ **Previous Year Questions Only** — sourced from actual Infosys SP & DSE assessments
@@ -25,9 +58,10 @@ DSA practice repository for **Infosys Specialist Programmer (SP)** and **Digital
 
 ---
 
-## 🔥 Most Important Topics Covered
+## 🔥 All Topics Covered
 
 - Arrays & Strings
+- Greedy Algorithms
 - Linked Lists
 - Stacks & Queues
 - Binary Search
@@ -42,11 +76,10 @@ DSA practice repository for **Infosys Specialist Programmer (SP)** and **Digital
 
 ## 🚀 How to Use
 
-1. Start with the **easy/** folder to build confidence
-2. Move to **medium/** for pattern recognition
-3. Tackle **hard/** for competitive edge
-4. Use `INFOSYSPYQS.pdf` as a quick reference for the full question bank
+1. Start with the **🎯 Priority Focus Topics** section above
+2. Work through **easy/** → **medium/** → **hard/**
+3. Use [`INFOSYSPYQS.pdf`](./INFOSYSPYQS.pdf) as your complete question bank reference
 
 ---
 
-> 💡 **Pro Tip:** Focus on topics that appear across multiple difficulty levels — those are the most likely to show up in your actual assessment!
+> 💡 **Pro Tip:** Arrays, Strings, and Greedy are the highest-frequency topics — nail these first for maximum score impact!
