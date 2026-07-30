@@ -118,4 +118,12 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Array
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
