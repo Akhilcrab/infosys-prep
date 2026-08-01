@@ -96,6 +96,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Sorting
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
@@ -124,12 +125,14 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -149,4 +152,8 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
