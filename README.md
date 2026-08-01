@@ -112,6 +112,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -126,9 +127,22 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
 ## Simulation
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
