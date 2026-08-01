@@ -2,11 +2,10 @@ class Solution {
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
 
-        sort(bulbs.begin(), bulbs.end());
-
+        int n = bulbs.size();
         vector<int> ans;
 
-        int n = bulbs.size();
+        sort(bulbs.begin(), bulbs.end());
 
         for (int i = 0; i < n; ) {
 
