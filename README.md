@@ -163,4 +163,16 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Akhilcrab/infosys-prep/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Akhilcrab/infosys-prep/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Akhilcrab/infosys-prep/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
