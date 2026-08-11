@@ -100,6 +100,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
@@ -114,6 +115,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
