@@ -89,6 +89,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -116,6 +117,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -211,6 +213,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
