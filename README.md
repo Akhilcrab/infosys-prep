@@ -101,6 +101,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -111,12 +112,14 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,6 +151,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
@@ -224,4 +228,12 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
