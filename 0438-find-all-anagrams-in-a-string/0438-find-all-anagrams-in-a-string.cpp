@@ -22,9 +22,11 @@ class Solution {
 }
     public :
     vector<int> findAnagrams(string s, string p) {
-        vector<int>result ;
+       
+      vector<int>result ;
       int k = p.length();
       int left = 0;
+    
     if( k > s.length() )return result;
       for( int right = 0 ; right < s.length() ; right++){
            if( right - left + 1 == k){
