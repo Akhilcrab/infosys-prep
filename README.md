@@ -113,6 +113,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -133,6 +134,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -144,6 +146,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -157,6 +160,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -183,6 +187,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -238,4 +243,16 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
