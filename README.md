@@ -157,6 +157,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
@@ -183,6 +184,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
