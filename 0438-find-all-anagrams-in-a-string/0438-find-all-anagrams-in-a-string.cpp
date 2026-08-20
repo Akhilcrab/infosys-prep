@@ -1,43 +1,20 @@
 class Solution {
-   bool isAnagram(string s, string p) {
-   
-    if (s.length() != p.length()) {
-        return false;
-    }
-
-    vector<int> count1(26, 0);
-    vector<int> count2(26, 0);
-
-    // 2. Mapping values in both vectors
-    for (int i = 0; i < s.length(); i++) {
-        count1[s[i] - 'a']++;
-        count2[p[i] - 'a']++;
-    }
-
-    if (count1 == count2) {
-        return true;
-    }
-    
-    return false; 
-}
-    public :
+public:
     vector<int> findAnagrams(string s, string p) {
-       
-      vector<int>result ;
-      int k = p.length();
-      int left = 0;
-    
-    if( k > s.length() )return result;
-      for( int right = 0 ; right < s.length() ; right++){
-           if( right - left + 1 == k){
+        int m = s.length(), n = p.length();
+        if (n > m) return {};
+        array<int,26> mp{}, ch{};
+        vector<int> ans;
+        for (char c : p) mp[c - 'a']++;
+        for (int i = 0; i < n; i++) ch[s[i] - 'a']++;
 
-           string currentwindow = s.substr( left , k);
-           if( isAnagram( currentwindow , p)){
-                   result.push_back(left);
-           }
-           left++;
-           }
-      }
-      return result ;
+        int left = 0;
+        for (int right = n; right < m; right++){
+            if (ch == mp) ans.push_back(left);
+            ch[s[left++] - 'a']--;
+            ch[s[right] - 'a']++;
+        }
+        if (ch == mp) ans.push_back(left);
+        return ans;
     }
 };
