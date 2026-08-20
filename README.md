@@ -169,6 +169,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akhilcrab/infosys-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
@@ -176,6 +177,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
