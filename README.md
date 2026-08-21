@@ -101,6 +101,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
@@ -157,6 +158,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
@@ -234,6 +236,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -269,4 +272,12 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
