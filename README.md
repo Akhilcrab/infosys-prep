@@ -101,6 +101,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
@@ -158,6 +159,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
@@ -236,6 +238,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
