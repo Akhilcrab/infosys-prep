@@ -106,6 +106,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -176,6 +177,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -294,4 +296,8 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
