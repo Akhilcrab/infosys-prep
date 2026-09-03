@@ -137,6 +137,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
@@ -308,4 +309,12 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akhilcrab/infosys-prep/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
