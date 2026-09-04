@@ -187,6 +187,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akhilcrab/infosys-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
+| [3903-smallest-stable-index-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -301,6 +302,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
