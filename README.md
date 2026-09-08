@@ -148,6 +148,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akhilcrab/infosys-prep/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Akhilcrab/infosys-prep/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
 |  |
 | ------- |
