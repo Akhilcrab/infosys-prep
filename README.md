@@ -104,6 +104,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Akhilcrab/infosys-prep/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
@@ -169,6 +170,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Akhilcrab/infosys-prep/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Akhilcrab/infosys-prep/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
@@ -257,6 +259,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Akhilcrab/infosys-prep/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
