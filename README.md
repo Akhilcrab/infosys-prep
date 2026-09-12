@@ -111,6 +111,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akhilcrab/infosys-prep/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Akhilcrab/infosys-prep/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
@@ -191,6 +192,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akhilcrab/infosys-prep/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akhilcrab/infosys-prep/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akhilcrab/infosys-prep/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akhilcrab/infosys-prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -214,6 +216,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akhilcrab/infosys-prep/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +331,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akhilcrab/infosys-prep/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Newton's Method
 |  |
 | ------- |
