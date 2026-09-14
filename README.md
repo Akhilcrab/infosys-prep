@@ -143,6 +143,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Akhilcrab/infosys-prep/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
@@ -340,4 +341,8 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akhilcrab/infosys-prep/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Akhilcrab/infosys-prep/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
