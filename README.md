@@ -90,6 +90,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Akhilcrab/infosys-prep/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -273,6 +274,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0015-3sum](https://github.com/Akhilcrab/infosys-prep/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Akhilcrab/infosys-prep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akhilcrab/infosys-prep/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akhilcrab/infosys-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
