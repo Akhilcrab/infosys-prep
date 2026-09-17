@@ -132,6 +132,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Akhilcrab/infosys-prep/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +188,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0645-set-mismatch](https://github.com/Akhilcrab/infosys-prep/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Akhilcrab/infosys-prep/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
@@ -217,6 +219,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Akhilcrab/infosys-prep/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akhilcrab/infosys-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -282,6 +285,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Akhilcrab/infosys-prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
 |  |
@@ -338,6 +342,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akhilcrab/infosys-prep/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akhilcrab/infosys-prep/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Newton's Method
 |  |
