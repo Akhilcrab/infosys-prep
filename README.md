@@ -356,4 +356,8 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Akhilcrab/infosys-prep/tree/master/0836-rectangle-overlap) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/Akhilcrab/infosys-prep/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
