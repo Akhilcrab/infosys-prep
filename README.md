@@ -99,6 +99,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akhilcrab/infosys-prep/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -210,6 +211,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Akhilcrab/infosys-prep/tree/master/1646-get-maximum-in-generated-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akhilcrab/infosys-prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Akhilcrab/infosys-prep/tree/master/3842-toggle-light-bulbs) |
 ## Dynamic Programming
 |  |
