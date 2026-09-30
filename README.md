@@ -92,6 +92,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0115-distinct-subsequences](https://github.com/Akhilcrab/infosys-prep/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akhilcrab/infosys-prep/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -371,4 +372,12 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [1075-project-employees-i](https://github.com/Akhilcrab/infosys-prep/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/Akhilcrab/infosys-prep/tree/master/1251-average-selling-price) |
+## Stack
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
