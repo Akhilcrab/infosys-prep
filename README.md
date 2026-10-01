@@ -89,6 +89,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Akhilcrab/infosys-prep/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -375,9 +376,11 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
