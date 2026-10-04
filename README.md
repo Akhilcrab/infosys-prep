@@ -95,6 +95,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0115-distinct-subsequences](https://github.com/Akhilcrab/infosys-prep/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -175,6 +176,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akhilcrab/infosys-prep/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/Akhilcrab/infosys-prep/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Akhilcrab/infosys-prep/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Akhilcrab/infosys-prep/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akhilcrab/infosys-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -233,6 +235,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhilcrab/infosys-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Akhilcrab/infosys-prep/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Akhilcrab/infosys-prep/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [1406-stone-game-iii](https://github.com/Akhilcrab/infosys-prep/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akhilcrab/infosys-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Akhilcrab/infosys-prep/tree/master/1563-stone-game-v) |
@@ -383,6 +386,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -390,5 +394,6 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
