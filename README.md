@@ -96,6 +96,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akhilcrab/infosys-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -387,6 +388,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0020-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -395,5 +397,6 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0022-generate-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Akhilcrab/infosys-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
