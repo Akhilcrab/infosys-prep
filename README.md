@@ -94,6 +94,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 | [0032-longest-valid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Akhilcrab/infosys-prep/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akhilcrab/infosys-prep/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Akhilcrab/infosys-prep/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0856-score-of-parentheses) |
@@ -269,6 +270,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/Akhilcrab/infosys-prep/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akhilcrab/infosys-prep/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -279,6 +281,7 @@ These are the **most important and most repeated** topics in Infosys assessments
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Akhilcrab/infosys-prep/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akhilcrab/infosys-prep/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
